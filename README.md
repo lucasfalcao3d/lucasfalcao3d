@@ -1,4 +1,4 @@
-# Hey, I'm a freelance 3d artist learning some code. 
+# Hey, I'm a freelance 3d artist trying to learn some code. 
 
 > ### Contact: lucasfalcao3d.com
 
