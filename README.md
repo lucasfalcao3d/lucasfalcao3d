@@ -1,6 +1,7 @@
 # Hey, I'm a freelance 3d artist trying to learn some code. 
 
-> ### Contact: lucasfalcao3d.com
+> ### Website: lucasfalcao3d.com
+> ### Contact: lucasfalcao3d@gmail.com
 
 
 - [x] Html
