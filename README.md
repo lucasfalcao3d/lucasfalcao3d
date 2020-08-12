@@ -1,6 +1,6 @@
 # Hey, I'm a freelance 3d artist trying to learn some code. 
 
-> ### Website: [lucasfalcao3d.com](lucasfalcao3d.com)
+> ### Website: [lucasfalcao3d.com](https://lucasfalcao3d.com/ target="_blank")
 > ### Contact: lucasfalcao3d@gmail.com
 
 
