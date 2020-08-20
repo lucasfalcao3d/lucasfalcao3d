@@ -5,8 +5,8 @@
 
 
 - [x] Html
-- [ ] CSS
+- [x] CSS
 - [ ] Python
 
 
-[![Learn Enough Course Completed](https://www.learnenough.com/certificates/lucasfalcao3d/html-tutorial.svg)](https://www.learnenough.com/certificates/lucasfalcao3d)
+<a href="https://www.learnenough.com/certificates/lucasfalcao3d"><img src="https://www.learnenough.com/certificates/lucasfalcao3d/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/lucasfalcao3d"><img src="https://www.learnenough.com/certificates/lucasfalcao3d/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a>
